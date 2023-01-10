@@ -1,0 +1,19 @@
+1. Faça um programa em C que imprima todos os números de 1 até 100.
+
+2. Faça um programa em C que imprima todos os números pares de 100 até 1.
+
+3. Faça um programa em C que imprima todos multiplos de 5, de 1 até 500.
+
+4. Crie um programa em C que seja capaz de entrar com três notas de 5 alunos. O programa deve mostrar a média de cada aluno e a média da turma.
+
+5. Construa um programa em C que leia vários números e informe quantos números entre 100 e 200 foram digitados. Quando o valor 0 (zero) for lido, o algoritmo deverá cessar sua execução.
+
+Extra 1:
+
+    Uma transportadora utiliza caminhões que suportam até 10 toneladas de 
+    peso, as caixas transportadas tem tamanho fixo e o caminhão comporta 
+    no máximo 200 volumes, assim, esta transportadora precisa controlar 
+    a quantidade e o peso dos volumes para acomodar nos caminhões.
+    Faça um programa que leia n caixas e seu peso, ao final, o programa 
+    deve imprimir a quantidade de volumes, o peso total dos volumes e o 
+    peso médio dos volumes.
